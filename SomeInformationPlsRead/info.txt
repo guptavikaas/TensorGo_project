@@ -1,0 +1,11 @@
+Hey there! Vikas Kumar Gupta here, a passionate B.Tech student delving deep into the world of Material Science and Engineering. I've just wrapped up an exhilarating project that perfectly blends my enthusiasm for tackling coding challenges with the thrill of real-time application development using the MERN stack.
+
+Imagine this: You effortlessly log into the application using your Google account, all thanks to the magic of Google OAuth. It's a breeze – smooth and quick. Once you're in, you're greeted with a warm welcome message, creating that comforting feeling of being right at home.
+
+Now, let's dive into the cool stuff. I've seamlessly integrated a customer service feature, allowing users to submit queries and requests. Choose a category, drop in some comments, hit submit, and boom! Your request pops up in real-time on the app. It's like watching the magic unfold right before your eyes.
+
+But hold on, there's an extra layer of excitement. The real icing on the cake is the Intercom.com integration. Behind the scenes, my backend performs this slick dance with Intercom's API, flawlessly creating and managing customer conversations. So, not only am I witnessing real-time updates on my app, but Intercom is also in the loop, creating a dynamic two-way street of communication.
+
+Quick note for the tech aficionados – make sure your backend is primed and ready for the Intercom integration. Crafting the right logic to converse in the Intercom language is crucial, and, of course, having those API keys or tokens is the secret handshake for a secure interaction.
+
+This project has been a thrilling rollercoaster, filled with challenges and victories. I've meticulously considered edge cases to ensure a robust application. Here's to conquering more coding challenges and crafting real-time wonders with the MERN stack!
