@@ -44,6 +44,14 @@ async function createCustomerServiceRequest(req, res, category, comments) {
   }
 }
 
+
+
+
+// /customer-service/requests/general-queries
+// /customer-service/requests/product-features-queries
+// /customer-service/requests/product-pricing-queries
+// /customer-service/requests/feature-implementation-requests
+
 // General Queries
 router.post('/general-queries', async (req, res) => {
   const { comments } = req.body;
@@ -104,12 +112,12 @@ router.get('/requests/product-features-queries', async (req, res) => {
 });
 // customerService.js
 
-// ... (existing code)
+
 
 // Common function to handle creating a customer service request
 async function createCustomerServiceRequest(req, res, category, comments) {
     try {
-      // ... (existing code)
+     
   
       // Emit a real-time update event
       io.emit('newRequest', newRequest);
@@ -121,7 +129,7 @@ async function createCustomerServiceRequest(req, res, category, comments) {
     }
   }
   
-  // ... (existing code)
+
   
 
 // Retrieve and display customer service requests for Product Pricing Queries
